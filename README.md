@@ -1,5 +1,7 @@
 # OpenADMET-PXR-Structure-Challenge
 
+<b>NB - this is a work in progress.  Happy to recieve feedback.  Details will be filled in after close of the competition July 1.<b>
+
 This repository is to share my methods tested in the 2026 OpenADMET PXR structure challenge and some small python/jupyter scripting that I found useful.
 
 I used this challenge as an opportunity to explore how diffusion based co-folding did against other more traditional methods of ligand placements.
