@@ -37,7 +37,7 @@ I used the LDDT-PLI from the leaderboard (computed by the OpenADMET huggingface 
 
 My starting point for understanding the PXR binding site was a collection of ~50 co-complexes pulled from the PDB.  This was reduced to ~45 'Tier 1' structures that were (somewhat) chemically diverse and showed good electron density for the ligand in the pocket.  PXR crystallizes as a dimer.  Generally the 'A' copy was taken as representative but in a few cases the 'B' copy showed either a slightly different pose or was the only one that had a molecule bound.
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/82326c15-709d-4e21-9f7b-e86fdd088bf1" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/87486162-58e9-4dfa-8536-85f4d39e41df" />
 
 
 These structures were aligned by protein backbone and the resulting ligand coordinates were used to drive shape based matching methods.
