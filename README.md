@@ -57,3 +57,6 @@ My progress over the competition:
 
 <img width="777" height="463" alt="image" src="https://github.com/user-attachments/assets/06d80522-f65c-4eda-865a-c8462d056ad4" />
 
+Where I landed amongst the other efforts (red dot):
+
+<img width="671" height="452" alt="image" src="https://github.com/user-attachments/assets/aeafbd54-815e-48d8-99c2-9c30c2e9fdca" />
