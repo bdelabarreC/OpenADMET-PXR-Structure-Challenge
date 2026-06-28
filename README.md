@@ -23,3 +23,4 @@ Analysis/data prep is a key component.  Packages used here include:
 -Weights & Biases (free version on website for model fine tuning)
 -all driven by python and its standard data tools (Pandas, numpy, matplotlib etc)
 
+<img width="719" height="560" alt="image" src="https://github.com/user-attachments/assets/56948ec1-332e-442c-a215-2de35ef59b63" />
