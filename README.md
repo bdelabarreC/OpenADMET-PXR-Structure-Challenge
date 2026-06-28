@@ -43,7 +43,7 @@ The binding pocket of PXR is fairly constant.  It is also large and ligand bindi
 
 Because I was new to all of them, a variety of options were used to run each diffusion/cofolding package.  There were several efforts employed to rank the output of the diffusion/cofolding - clustering of results to find the most reproducible pose followed by top 'iptm' measure was best in my hands for creating the highest scoring entries.  Aside - I think the clustering approach may represent reality better than a single crystal structure.  The results look more like molecular dynamic frames and typically clustered around very reasonable binding options.  The clustering provides useful output in that portions of the molecule that need to be modified can be clearly identified regardless of whether the exactly correct crystallography pose is predicted.
 
-Overall the best result came from a running Protenix in one of my initial efforts.  I wish there was a way to know I had hit my best results as this run took less than an hour to run on my Nvidia 4700 GPU....
+Overall the best result came from a running Protenix in one of my initial efforts with that package in mid-May.  I wish there was a way to know I had hit my best results because this took less than an hour to run on my Nvidia 4700 GPU.
 
 In the case of OpenFold3, fine-tuning was attempted with the Tier 1 complexes, with 5 examples pulled randomly to act as reference points to evaluate the training.  This approach worked well, and ultimately produced the highest scoring values from OpenFold.
 
