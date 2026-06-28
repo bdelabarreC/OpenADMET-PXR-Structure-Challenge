@@ -60,6 +60,3 @@ My progress over the competition:
 I copy/pasted my entries along with occasional snapshots of the leaderboard to track my progress.  Here is where I landed amongst the other efforts (red dot):
 
 <img width="839" height="583" alt="image" src="https://github.com/user-attachments/assets/e8c5c6df-0829-4584-bc25-3f1e8685ddc9" />
-
-
-<img width="671" height="452" alt="image" src="https://github.com/user-attachments/assets/aeafbd54-815e-48d8-99c2-9c30c2e9fdca" />
