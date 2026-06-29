@@ -6,7 +6,7 @@ This repository is to share my methods tested in the 2026 OpenADMET PXR structur
 
 I used this challenge as an opportunity to explore how diffusion based co-folding did against other more traditional methods of ligand placements.
 
-I set myself the additional challenge of being limited to open-source packages to ensure reproducibility of results in others hands and to promote the work of open source developers.
+I set myself the additional challenge of being limited to open-source packages to support extensibility & reproducibility of my results here and to promote the work of open source developers.
 
 I explored multiple packages including:
 
