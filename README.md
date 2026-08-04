@@ -1,6 +1,6 @@
 # OpenADMET-PXR-Structure-Challenge
 
-<b>NB - this is a work in progress.  Happy to recieve feedback.  Details will be filled in after close of the competition July 1.</b>
+<b>NB - Updated 4 Aug 2026.</b>
 
 This repository is to share my methods tested in the 2026 OpenADMET PXR structure challenge and some small python/jupyter scripting that I found useful.
 
@@ -63,3 +63,10 @@ My progress over the competition:
 I copy/pasted my entries along with occasional snapshots of the leaderboard to track my progress.  Here is where I landed amongst the other efforts (red dot):
 
 <img width="839" height="583" alt="image" src="https://github.com/user-attachments/assets/c65f5cf0-6a6e-426c-8065-d415ea956351" />
+
+
+Update:  summary and 82 ligand score for my 20 entries.  I used the LDDT-LP score to evaluate my progress.  
+
+<img width="3070" height="1052" alt="image" src="https://github.com/user-attachments/assets/3cb580d0-25eb-478f-a017-5d3c267d23c2" />
+
+Protenix run in default mode with their v1 model gave the highest score - all other variations on this 
