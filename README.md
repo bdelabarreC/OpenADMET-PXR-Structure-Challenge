@@ -1,6 +1,6 @@
 # OpenADMET-PXR-Structure-Challenge
 
-<b>NB - Updated 6 Aug 2026 with more detailed method description (at bottom of page).</b>
+<b>Last pdated 6 Aug 2026 with more detailed method description</b>
 
 This repository is to share my methods tested in the 2026 OpenADMET PXR structure challenge and some small python/jupyter scripting that I found useful.
 
